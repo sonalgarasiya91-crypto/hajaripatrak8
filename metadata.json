@@ -1,0 +1,6 @@
+{
+  "name": "સાથરોટા પ્રા. શાળા - ધોરણ ૮ હાજરી પત્રક",
+  "description": "સાથરોટા પ્રાથમિક શાળાના ધોરણ ૮ માટે સ્માર્ટ ફોટો ક્લિક હાજરી પત્રક, દૈનિક એક્સેલ ડેટા સેવિંગ અને માસિક હાજરી અહેવાલ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
